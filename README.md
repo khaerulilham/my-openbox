@@ -1,0 +1,2 @@
+# myOpenbox
+Openbox WM (config)
